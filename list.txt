@@ -1,5 +1,0 @@
-https://www.programiz.com/cpp-programming/examples
-
-5, 10, 15, 20, 25, 30, 35, 40, 45, 50, 55, 60
-
-http://cpp.sh/
