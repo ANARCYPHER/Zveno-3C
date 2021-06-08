@@ -7,3 +7,4 @@ https://beginnersbook.com/2017/08/cpp-while-loop/
 https://beginnersbook.com/2017/08/cpp-do-while-loop/
 https://beginnersbook.com/2017/08/cpp-continue-statement/
 https://beginnersbook.com/2017/08/cpp-goto-statement/
+https://beginnersbook.com/2017/08/cpp-functions/
