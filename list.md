@@ -10,3 +10,4 @@ https://beginnersbook.com/2017/08/cpp-goto-statement/
 https://beginnersbook.com/2017/08/cpp-functions/
 https://beginnersbook.com/2017/08/cpp-default-arguments/
 https://beginnersbook.com/2017/08/cpp-recursion/
+https://beginnersbook.com/2017/08/cpp-arrays/
