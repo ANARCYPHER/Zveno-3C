@@ -1,14 +1,23 @@
-https://beginnersbook.com/2017/08/cpp-data-types/
-https://beginnersbook.com/2017/08/cpp-operators/
-https://beginnersbook.com/2017/08/cpp-if-else-statement/
-https://beginnersbook.com/2017/08/cpp-switch-case/
-https://beginnersbook.com/2017/08/cpp-for-loop/
-https://beginnersbook.com/2017/08/cpp-while-loop/
-https://beginnersbook.com/2017/08/cpp-do-while-loop/
-https://beginnersbook.com/2017/08/cpp-continue-statement/
-https://beginnersbook.com/2017/08/cpp-goto-statement/
-https://beginnersbook.com/2017/08/cpp-functions/
-https://beginnersbook.com/2017/08/cpp-default-arguments/
-https://beginnersbook.com/2017/08/cpp-recursion/
-https://beginnersbook.com/2017/08/cpp-arrays/
-https://beginnersbook.com/2017/09/cpp-abstract-class/
+CCCCCCCCC       +++++               CCCCCCCCC       +++++
+                +++++
+C       C       +++++    
+C CCCCCCC       +++++
+C C       ++++++++++++++++++++
+C C       ++++++++++++++++++++ 
+C C             +++++ 
+C C             +++++
+C CCCCCCC       +++++
+C       C        
+C       C       +++++ 
+CCCCCCCCC       +++++
+                +++++
+C       C       +++++    
+C CCCCCCC       +++++
+C C       ++++++++++++++++++++
+C C       ++++++++++++++++++++ 
+C C             +++++ 
+C C             +++++
+C CCCCCCC       +++++
+C       C        
+C       C       +++++ 
+CCCCCCCCC       +++++
